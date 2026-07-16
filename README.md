@@ -53,15 +53,3 @@ mvn spring-boot:run
 cd ../frontend
 npm install
 npm run dev
-
-Screenshots
-## Screenshots
-
-### Login
-![Login](screenshots/sc1.png)
-
-### Signup
-![Signup](screenshots/sc2.png)
-
-### Dashboard
-![Dashboard](screenshots/sc3.png)
